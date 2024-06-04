@@ -4,7 +4,7 @@ Projektem je jednoduchý sorter, který má zaznamenat velikost balíčku pomoč
 
 ## Informace o verzích
 Původně měl systém fungovat na kameře OV7670 u které bohužel většina knihoven byla buď zastaralá nebo nefunkční.
-Tudíž jsem zvolil variantu s ultrazvukovým senzorem a konstrukcí z lega (Pro účel tohoto projektu jsem pracoval s náhodným generátorem velikosti pro zápis do firebase).
+Tudíž jsem zvolil variantu s ultrazvukovým senzorem (https://shorturl.at/9vK56) a konstrukcí z lega (Pro účel tohoto projektu jsem pracoval s náhodným generátorem velikosti pro zápis do firebase).
 
 ## Jak to funguje + odkaz na myšlenkovou mapu
 odkaz: https://miro.com/app/board/uXjVKRKkyPE=/?share_link_id=638719125340
